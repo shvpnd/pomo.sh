@@ -1,0 +1,8 @@
+Package: pomo.sh
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash, mpg123, imagemagick, chafa
+Maintainer: shvpnd <shvpnd@proton.me>
+Description: a pomodoro timer in bash. work in focused bursts followed by short breaks to boost productivity.
